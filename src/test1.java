@@ -14,6 +14,7 @@ public class test1{
 //        }
 
         String str = "a";
+
         System.out.println(str == "a");
     }
 }
